@@ -1,2 +1,2 @@
-# Caesar-cipher
+# Caeser-cipher
 Simple Caesar Cipher made in Python
